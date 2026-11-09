@@ -49,7 +49,7 @@
         "wk:page":"Habila"
     },
     "wof:country":"SD",
-    "wof:geomhash":"173a06dd14474296d2806043b2f56dfa",
+    "wof:geomhash":"ac4ff1e96a576f23c9289a696db090c3",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -75,5 +75,5 @@
     31.11667000000001,
     13.7
 ],
-  "geometry": {"coordinates":[31.11667000000001,13.7],"type":"Point"}
+  "geometry": {"coordinates":[31.11667,13.7],"type":"Point"}
 }

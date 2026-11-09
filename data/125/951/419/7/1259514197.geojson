@@ -41,7 +41,7 @@
         "gn:id":375003
     },
     "wof:country":"SD",
-    "wof:geomhash":"5c14392a73e431434b8d9927be2ba0e1",
+    "wof:geomhash":"bbaf5091788c35c330dfdb201f08fce2",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -67,5 +67,5 @@
     32.0,
     13.56667
 ],
-  "geometry": {"coordinates":[32.0,13.56667],"type":"Point"}
+  "geometry": {"coordinates":[32,13.56667],"type":"Point"}
 }

@@ -42,7 +42,7 @@
         "wk:page":"Umm_Qantur"
     },
     "wof:country":"SD",
-    "wof:geomhash":"4d4c4c95f383cdf3fbd8e73b6c9a9e0f",
+    "wof:geomhash":"07155b0971cad12f2b8e07fc3d222af7",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -68,5 +68,5 @@
     31.36667000000001,
     14.28333
 ],
-  "geometry": {"coordinates":[31.36667000000001,14.28333],"type":"Point"}
+  "geometry": {"coordinates":[31.36667,14.28333],"type":"Point"}
 }

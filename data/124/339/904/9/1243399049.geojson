@@ -63,7 +63,7 @@
         "wk:page":"Delgo%2C_Sudan"
     },
     "wof:country":"SD",
-    "wof:geomhash":"1c309912db980120d1107ad758993d08",
+    "wof:geomhash":"78d6bf2fe498c318b1f95c05b40a8ce8",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -89,5 +89,5 @@
     30.56139000000001,
     20.12278
 ],
-  "geometry": {"coordinates":[30.56139000000001,20.12278],"type":"Point"}
+  "geometry": {"coordinates":[30.56139,20.12278],"type":"Point"}
 }
