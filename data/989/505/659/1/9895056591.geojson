@@ -1,0 +1,74 @@
+{
+  "id": 9895056591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.10272,13.53193,25.10272,13.53193",
+    "geom:latitude":13.53193,
+    "geom:longitude":25.10272,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492704: name \"Garid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492704"
+        },
+        {
+            "citation":"GeoNames populated place 12492704: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492704"
+        },
+        {
+            "citation":"GeoNames populated place 12492704: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492704"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091706361 (El Fasher), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676919,
+        102191573,
+        1091706361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492704
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"07b6fbd9be18035774f55af49dcc818d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706361,
+            "locality_id":9895056591,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":9895056591,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Garid",
+    "wof:parent_id":1091706361,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.10272,
+    13.53193,
+    25.10272,
+    13.53193
+],
+  "geometry": {"coordinates":[25.10272,13.53193],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895056954,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.61914,13.54937,22.61914,13.54937",
+    "geom:latitude":13.54937,
+    "geom:longitude":22.61914,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13060339: name \"Goz Jamad\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13060339"
+        },
+        {
+            "citation":"GeoNames populated place 13060339: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13060339"
+        },
+        {
+            "citation":"GeoNames populated place 13060339: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13060339"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707477 (Kreinik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091707477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13060339
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b2ca825827bd3fb281eb06e0c9238d19",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707477,
+            "locality_id":9895056954,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056954,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Goz Jamad",
+    "wof:parent_id":1091707477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.61914,
+    13.54937,
+    22.61914,
+    13.54937
+],
+  "geometry": {"coordinates":[22.61914,13.54937],"type":"Point"}
+}

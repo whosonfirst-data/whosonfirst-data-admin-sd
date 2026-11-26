@@ -1,0 +1,74 @@
+{
+  "id": 9895056879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.73647,12.84599,22.73647,12.84599",
+    "geom:latitude":12.84599,
+    "geom:longitude":22.73647,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12954213: name \"Sugune\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12954213"
+        },
+        {
+            "citation":"GeoNames populated place 12954213: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12954213"
+        },
+        {
+            "citation":"GeoNames populated place 12954213: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12954213"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707477 (Kreinik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091707477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12954213
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2b90269753f1b2c3c79d205a85115fc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707477,
+            "locality_id":9895056879,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056879,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Sugune",
+    "wof:parent_id":1091707477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.73647,
+    12.84599,
+    22.73647,
+    12.84599
+],
+  "geometry": {"coordinates":[22.73647,12.84599],"type":"Point"}
+}

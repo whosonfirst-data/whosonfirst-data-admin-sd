@@ -1,0 +1,74 @@
+{
+  "id": 9895056612,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.65878,13.17341,32.65878,13.17341",
+    "geom:latitude":13.17341,
+    "geom:longitude":32.65878,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493848: name \"Abu Bakar Sati\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493848"
+        },
+        {
+            "citation":"GeoNames populated place 12493848: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493848"
+        },
+        {
+            "citation":"GeoNames populated place 12493848: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493848"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707431 (Kosti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676909,
+        102191573,
+        1091707431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493848
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a6dc96fce5373591d898f3f01c680af3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707431,
+            "locality_id":9895056612,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":9895056612,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Abu Bakar Sati",
+    "wof:parent_id":1091707431,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.65878,
+    13.17341,
+    32.65878,
+    13.17341
+],
+  "geometry": {"coordinates":[32.65878,13.17341],"type":"Point"}
+}

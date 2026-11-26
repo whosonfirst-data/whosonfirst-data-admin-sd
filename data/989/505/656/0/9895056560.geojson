@@ -1,0 +1,74 @@
+{
+  "id": 9895056560,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.65,13.83333,30.65,13.83333",
+    "geom:latitude":13.83333,
+    "geom:longitude":30.65,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 379653: name \"Al Ba\u1e29r\u012byah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/379653"
+        },
+        {
+            "citation":"GeoNames populated place 379653: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/379653"
+        },
+        {
+            "citation":"GeoNames populated place 379653: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/379653"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091708961 (Um Rawaba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676925,
+        102191573,
+        1091708961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":379653
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d10542be740e012847dcd1a22bac12b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708961,
+            "locality_id":9895056560,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":9895056560,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Al Ba\u1e29r\u012byah",
+    "wof:parent_id":1091708961,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.65,
+    13.83333,
+    30.65,
+    13.83333
+],
+  "geometry": {"coordinates":[30.65,13.83333],"type":"Point"}
+}

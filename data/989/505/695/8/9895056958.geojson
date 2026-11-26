@@ -1,0 +1,75 @@
+{
+  "id": 9895056958,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.26928,14.72775,32.26928,14.72775",
+    "geom:latitude":14.72775,
+    "geom:longitude":32.26928,
+    "gn:population":26893,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132451: name \"Al-Qu\u1e6daynah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132451"
+        },
+        {
+            "citation":"GeoNames populated place 13132451: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132451"
+        },
+        {
+            "citation":"GeoNames populated place 13132451: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132451"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091706319 (El Gutaina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676909,
+        102191573,
+        1091706319
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132451
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"32365ae504470686747af86ca7b644fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706319,
+            "locality_id":9895056958,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":9895056958,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Al-Qu\u1e6daynah",
+    "wof:parent_id":1091706319,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.26928,
+    14.72775,
+    32.26928,
+    14.72775
+],
+  "geometry": {"coordinates":[32.26928,14.72775],"type":"Point"}
+}

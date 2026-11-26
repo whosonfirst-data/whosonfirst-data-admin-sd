@@ -1,0 +1,75 @@
+{
+  "id": 9895056960,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"25.58112,12.43883,25.58112,12.43883",
+    "geom:latitude":12.43883,
+    "geom:longitude":25.58112,
+    "gn:population":48966,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132453: name \"Sh'\u012bar\u012bah\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132453"
+        },
+        {
+            "citation":"GeoNames populated place 13132453: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132453"
+        },
+        {
+            "citation":"GeoNames populated place 13132453: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132453"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091708563 (Sheiria), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676875,
+        102191573,
+        1091708563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132453
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a000b9524dd7d311681695ddfe5f88fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708563,
+            "locality_id":9895056960,
+            "region_id":85676875
+        }
+    ],
+    "wof:id":9895056960,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Sh'\u012bar\u012bah",
+    "wof:parent_id":1091708563,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    25.58112,
+    12.43883,
+    25.58112,
+    12.43883
+],
+  "geometry": {"coordinates":[25.58112,12.43883],"type":"Point"}
+}

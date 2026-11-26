@@ -1,0 +1,74 @@
+{
+  "id": 9895056696,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.18518,12.73625,22.18518,12.73625",
+    "geom:latitude":12.73625,
+    "geom:longitude":22.18518,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12902935: name \"Abaye\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12902935"
+        },
+        {
+            "citation":"GeoNames populated place 12902935: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12902935"
+        },
+        {
+            "citation":"GeoNames populated place 12902935: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12902935"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091705349 (Beida), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12902935
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"136f93a0099bebeaa5571cbe0823d660",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":9895056696,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056696,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Abaye",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.18518,
+    12.73625,
+    22.18518,
+    12.73625
+],
+  "geometry": {"coordinates":[22.18518,12.73625],"type":"Point"}
+}

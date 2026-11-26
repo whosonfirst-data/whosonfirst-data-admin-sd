@@ -1,0 +1,74 @@
+{
+  "id": 9895056601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.145,13.23944,32.145,13.23944",
+    "geom:latitude":13.23944,
+    "geom:longitude":32.145,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493828: name \"Abu Frewa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493828"
+        },
+        {
+            "citation":"GeoNames populated place 12493828: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493828"
+        },
+        {
+            "citation":"GeoNames populated place 12493828: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493828"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091708727 (Tendalti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676909,
+        102191573,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493828
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"611aa68c6bde9e4f4bdc113a74657aef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":9895056601,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":9895056601,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Abu Frewa",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.145,
+    13.23944,
+    32.145,
+    13.23944
+],
+  "geometry": {"coordinates":[32.145,13.23944],"type":"Point"}
+}

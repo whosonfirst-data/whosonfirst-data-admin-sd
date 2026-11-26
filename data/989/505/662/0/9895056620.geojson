@@ -1,0 +1,74 @@
+{
+  "id": 9895056620,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.72998,12.26596,32.72998,12.26596",
+    "geom:latitude":12.26596,
+    "geom:longitude":32.72998,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493857: name \"Wadabkaraya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493857"
+        },
+        {
+            "citation":"GeoNames populated place 12493857: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493857"
+        },
+        {
+            "citation":"GeoNames populated place 12493857: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493857"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091708931 (El Salam), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676909,
+        102191573,
+        1091708931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493857
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"55537d8105da28a02fc42f8aac22d817",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708931,
+            "locality_id":9895056620,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":9895056620,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Wadabkaraya",
+    "wof:parent_id":1091708931,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.72998,
+    12.26596,
+    32.72998,
+    12.26596
+],
+  "geometry": {"coordinates":[32.72998,12.26596],"type":"Point"}
+}

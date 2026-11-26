@@ -1,0 +1,74 @@
+{
+  "id": 9895056757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.15484,13.17112,22.15484,13.17112",
+    "geom:latitude":13.17112,
+    "geom:longitude":22.15484,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12903035: name \"Gundo Kria\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12903035"
+        },
+        {
+            "citation":"GeoNames populated place 12903035: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12903035"
+        },
+        {
+            "citation":"GeoNames populated place 12903035: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12903035"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091705485 (El Geneina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12903035
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"b722057bc07679a2567c825d200f7255",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":9895056757,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056757,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Gundo Kria",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.15484,
+    13.17112,
+    22.15484,
+    13.17112
+],
+  "geometry": {"coordinates":[22.15484,13.17112],"type":"Point"}
+}

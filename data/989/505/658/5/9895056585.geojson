@@ -1,0 +1,74 @@
+{
+  "id": 9895056585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.67631,14.86323,22.67631,14.86323",
+    "geom:latitude":14.86323,
+    "geom:longitude":22.67631,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492173: name \"Ondour\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492173"
+        },
+        {
+            "citation":"GeoNames populated place 12492173: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492173"
+        },
+        {
+            "citation":"GeoNames populated place 12492173: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492173"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091705509 (Kulbus), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091705509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492173
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d38af04ab7dec80b2f4d70eeba6a6fd1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705509,
+            "locality_id":9895056585,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056585,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Ondour",
+    "wof:parent_id":1091705509,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.67631,
+    14.86323,
+    22.67631,
+    14.86323
+],
+  "geometry": {"coordinates":[22.67631,14.86323],"type":"Point"}
+}

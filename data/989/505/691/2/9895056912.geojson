@@ -1,0 +1,74 @@
+{
+  "id": 9895056912,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.352,13.85066,22.352,13.85066",
+    "geom:latitude":13.85066,
+    "geom:longitude":22.352,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13060206: name \"Sebet Ardu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13060206"
+        },
+        {
+            "citation":"GeoNames populated place 13060206: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13060206"
+        },
+        {
+            "citation":"GeoNames populated place 13060206: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13060206"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091709547 (Sirba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091709547
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13060206
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d0662f12981b93a5c07fe387c435d3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709547,
+            "locality_id":9895056912,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056912,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Sebet Ardu",
+    "wof:parent_id":1091709547,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.352,
+    13.85066,
+    22.352,
+    13.85066
+],
+  "geometry": {"coordinates":[22.352,13.85066],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895056590,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.88871,13.21449,29.88871,13.21449",
+    "geom:latitude":13.21449,
+    "geom:longitude":29.88871,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492703: name \"Alfarshaya\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492703"
+        },
+        {
+            "citation":"GeoNames populated place 12492703: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492703"
+        },
+        {
+            "citation":"GeoNames populated place 12492703: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492703"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091710639 (Shiekan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676925,
+        102191573,
+        1091710639
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492703
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"caa2392356cae13aaa1d4bb80e224d71",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710639,
+            "locality_id":9895056590,
+            "region_id":85676925
+        }
+    ],
+    "wof:id":9895056590,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Alfarshaya",
+    "wof:parent_id":1091710639,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.88871,
+    13.21449,
+    29.88871,
+    13.21449
+],
+  "geometry": {"coordinates":[29.88871,13.21449],"type":"Point"}
+}

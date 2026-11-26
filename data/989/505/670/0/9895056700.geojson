@@ -1,0 +1,74 @@
+{
+  "id": 9895056700,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.24407,12.82079,22.24407,12.82079",
+    "geom:latitude":12.82079,
+    "geom:longitude":22.24407,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12902941: name \"Hajer Gabina\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12902941"
+        },
+        {
+            "citation":"GeoNames populated place 12902941: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12902941"
+        },
+        {
+            "citation":"GeoNames populated place 12902941: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12902941"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091706945 (Habila), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091706945
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12902941
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"a21b8d75e79decd6119fed28420616d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706945,
+            "locality_id":9895056700,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056700,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Hajer Gabina",
+    "wof:parent_id":1091706945,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.24407,
+    12.82079,
+    22.24407,
+    12.82079
+],
+  "geometry": {"coordinates":[22.24407,12.82079],"type":"Point"}
+}

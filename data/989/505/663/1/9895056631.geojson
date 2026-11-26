@@ -1,0 +1,74 @@
+{
+  "id": 9895056631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.83147,15.09037,24.83147,15.09037",
+    "geom:latitude":15.09037,
+    "geom:longitude":24.83147,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12747096: name \"az-Zurq\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12747096"
+        },
+        {
+            "citation":"GeoNames populated place 12747096: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12747096"
+        },
+        {
+            "citation":"GeoNames populated place 12747096: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12747096"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707521 (Kutum), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676919,
+        102191573,
+        1091707521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12747096
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f3823fd4d2da7310d97886eb657c8ed5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707521,
+            "locality_id":9895056631,
+            "region_id":85676919
+        }
+    ],
+    "wof:id":9895056631,
+    "wof:lastmodified":1795735041,
+    "wof:name":"az-Zurq",
+    "wof:parent_id":1091707521,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.83147,
+    15.09037,
+    24.83147,
+    15.09037
+],
+  "geometry": {"coordinates":[24.83147,15.09037],"type":"Point"}
+}

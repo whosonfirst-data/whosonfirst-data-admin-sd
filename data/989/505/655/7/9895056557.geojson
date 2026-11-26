@@ -1,0 +1,75 @@
+{
+  "id": 9895056557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"24.88069,12.04888,24.88069,12.04888",
+    "geom:latitude":12.04888,
+    "geom:longitude":24.88069,
+    "gn:population":565734,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 369004: name \"Nyala\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/369004"
+        },
+        {
+            "citation":"GeoNames populated place 369004: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/369004"
+        },
+        {
+            "citation":"GeoNames populated place 369004: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/369004"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707611 (Nyala), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676871,
+        102191573,
+        1091707611
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":369004
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"8d274f6556c42636b6257994c4961b63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707611,
+            "locality_id":9895056557,
+            "region_id":85676871
+        }
+    ],
+    "wof:id":9895056557,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Nyala",
+    "wof:parent_id":1091707611,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    24.88069,
+    12.04888,
+    24.88069,
+    12.04888
+],
+  "geometry": {"coordinates":[24.88069,12.04888],"type":"Point"}
+}
