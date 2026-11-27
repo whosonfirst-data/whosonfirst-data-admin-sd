@@ -1,0 +1,74 @@
+{
+  "id": 9895056600,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.14417,13.20444,32.14417,13.20444",
+    "geom:latitude":13.20444,
+    "geom:longitude":32.14417,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493827: name \"Abu Ariash\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493827"
+        },
+        {
+            "citation":"GeoNames populated place 12493827: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493827"
+        },
+        {
+            "citation":"GeoNames populated place 12493827: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493827"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091708727 (Tendalti), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676909,
+        102191573,
+        1091708727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493827
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"2e49b34b5764defa2f2447dbda564f0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091708727,
+            "locality_id":9895056600,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":9895056600,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Abu Ariash",
+    "wof:parent_id":1091708727,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.14417,
+    13.20444,
+    32.14417,
+    13.20444
+],
+  "geometry": {"coordinates":[32.14417,13.20444],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895056626,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.6864,14.25902,31.6864,14.25902",
+    "geom:latitude":14.25902,
+    "geom:longitude":31.6864,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493864: name \"El Halba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493864"
+        },
+        {
+            "citation":"GeoNames populated place 12493864: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493864"
+        },
+        {
+            "citation":"GeoNames populated place 12493864: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493864"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707399 (El Douiem), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676909,
+        102191573,
+        1091707399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493864
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"7419da8ef45a2cc6ad4f83e9b1227480",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707399,
+            "locality_id":9895056626,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":9895056626,
+    "wof:lastmodified":1795735041,
+    "wof:name":"El Halba",
+    "wof:parent_id":1091707399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.6864,
+    14.25902,
+    31.6864,
+    14.25902
+],
+  "geometry": {"coordinates":[31.6864,14.25902],"type":"Point"}
+}

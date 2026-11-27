@@ -1,0 +1,74 @@
+{
+  "id": 9895056628,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"31.8966,14.50141,31.8966,14.50141",
+    "geom:latitude":14.50141,
+    "geom:longitude":31.8966,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493867: name \"El Shigaig\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493867"
+        },
+        {
+            "citation":"GeoNames populated place 12493867: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493867"
+        },
+        {
+            "citation":"GeoNames populated place 12493867: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493867"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091709051 (Umm Ramtta), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676909,
+        102191573,
+        1091709051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493867
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"54abcd653ea94400ba271ac794400b4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709051,
+            "locality_id":9895056628,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":9895056628,
+    "wof:lastmodified":1795735041,
+    "wof:name":"El Shigaig",
+    "wof:parent_id":1091709051,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    31.8966,
+    14.50141,
+    31.8966,
+    14.50141
+],
+  "geometry": {"coordinates":[31.8966,14.50141],"type":"Point"}
+}

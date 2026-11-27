@@ -1,0 +1,74 @@
+{
+  "id": 9895056893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.92893,12.97511,22.92893,12.97511",
+    "geom:latitude":12.97511,
+    "geom:longitude":22.92893,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12954322: name \"Rungatas\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12954322"
+        },
+        {
+            "citation":"GeoNames populated place 12954322: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12954322"
+        },
+        {
+            "citation":"GeoNames populated place 12954322: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12954322"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091710189 (Azum), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676885,
+        102191573,
+        1091710189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12954322
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"c201d0f5f377b9d3ffd60be3fd273627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710189,
+            "locality_id":9895056893,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":9895056893,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Rungatas",
+    "wof:parent_id":1091710189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.92893,
+    12.97511,
+    22.92893,
+    12.97511
+],
+  "geometry": {"coordinates":[22.92893,12.97511],"type":"Point"}
+}

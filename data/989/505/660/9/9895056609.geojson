@@ -1,0 +1,74 @@
+{
+  "id": 9895056609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.79111,12.63583,32.79111,12.63583",
+    "geom:latitude":12.63583,
+    "geom:longitude":32.79111,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493841: name \"Al Redes Al Baha\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493841"
+        },
+        {
+            "citation":"GeoNames populated place 12493841: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493841"
+        },
+        {
+            "citation":"GeoNames populated place 12493841: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493841"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707815 (El Jabalian), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676909,
+        102191573,
+        1091707815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493841
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"cc1dc91a28f81194e2fa4509b926d6f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707815,
+            "locality_id":9895056609,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":9895056609,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Al Redes Al Baha",
+    "wof:parent_id":1091707815,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.79111,
+    12.63583,
+    32.79111,
+    12.63583
+],
+  "geometry": {"coordinates":[32.79111,12.63583],"type":"Point"}
+}

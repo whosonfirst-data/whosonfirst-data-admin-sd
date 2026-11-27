@@ -1,0 +1,74 @@
+{
+  "id": 9895056766,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.03151,12.65709,22.03151,12.65709",
+    "geom:latitude":12.65709,
+    "geom:longitude":22.03151,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12903067: name \"Hile Hajta\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12903067"
+        },
+        {
+            "citation":"GeoNames populated place 12903067: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12903067"
+        },
+        {
+            "citation":"GeoNames populated place 12903067: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12903067"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091705349 (Beida), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12903067
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0bdff5c31a63cdba1caa6d749a0870da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":9895056766,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056766,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Hile Hajta",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.03151,
+    12.65709,
+    22.03151,
+    12.65709
+],
+  "geometry": {"coordinates":[22.03151,12.65709],"type":"Point"}
+}

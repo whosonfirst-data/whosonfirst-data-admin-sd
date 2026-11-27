@@ -1,0 +1,74 @@
+{
+  "id": 9895056890,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.9354,13.02316,22.9354,13.02316",
+    "geom:latitude":13.02316,
+    "geom:longitude":22.9354,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12954319: name \"Gara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12954319"
+        },
+        {
+            "citation":"GeoNames populated place 12954319: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12954319"
+        },
+        {
+            "citation":"GeoNames populated place 12954319: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12954319"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091710189 (Azum), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676885,
+        102191573,
+        1091710189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12954319
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"3d7adcfb25696e99d3e49d198d2ef219",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710189,
+            "locality_id":9895056890,
+            "region_id":85676885
+        }
+    ],
+    "wof:id":9895056890,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Gara",
+    "wof:parent_id":1091710189,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.9354,
+    13.02316,
+    22.9354,
+    13.02316
+],
+  "geometry": {"coordinates":[22.9354,13.02316],"type":"Point"}
+}

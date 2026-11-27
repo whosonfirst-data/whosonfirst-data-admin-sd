@@ -1,0 +1,74 @@
+{
+  "id": 9895056674,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.00857,12.74108,22.00857,12.74108",
+    "geom:latitude":12.74108,
+    "geom:longitude":22.00857,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12902911: name \"Karuba Khartoum Jadeid\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12902911"
+        },
+        {
+            "citation":"GeoNames populated place 12902911: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12902911"
+        },
+        {
+            "citation":"GeoNames populated place 12902911: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12902911"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091705349 (Beida), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12902911
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"1f4863fb7b6dfc8325a5e28a59d476e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":9895056674,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056674,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Karuba Khartoum Jadeid",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.00857,
+    12.74108,
+    22.00857,
+    12.74108
+],
+  "geometry": {"coordinates":[22.00857,12.74108],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 9895056898,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.47552,13.51129,22.47552,13.51129",
+    "geom:latitude":13.51129,
+    "geom:longitude":22.47552,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13050829: name \"Chakawiy\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13050829"
+        },
+        {
+            "citation":"GeoNames populated place 13050829: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13050829"
+        },
+        {
+            "citation":"GeoNames populated place 13050829: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13050829"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091705485 (El Geneina), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091705485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13050829
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"e02626357c6ed0fda238ecf572d8f317",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705485,
+            "locality_id":9895056898,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056898,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Chakawiy",
+    "wof:parent_id":1091705485,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.47552,
+    13.51129,
+    22.47552,
+    13.51129
+],
+  "geometry": {"coordinates":[22.47552,13.51129],"type":"Point"}
+}

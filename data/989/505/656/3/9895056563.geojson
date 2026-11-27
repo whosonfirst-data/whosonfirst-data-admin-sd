@@ -1,0 +1,74 @@
+{
+  "id": 9895056563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"30.0191,11.9403,30.0191,11.9403",
+    "geom:latitude":11.9403,
+    "geom:longitude":30.0191,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 434460: name \"Habila\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/434460"
+        },
+        {
+            "citation":"GeoNames populated place 434460: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/434460"
+        },
+        {
+            "citation":"GeoNames populated place 434460: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/434460"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091706919 (Habila), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676923,
+        102191573,
+        1091706919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":434460
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ecb9089d83a3634b8a8f7901d37f0141",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706919,
+            "locality_id":9895056563,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":9895056563,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Habila",
+    "wof:parent_id":1091706919,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    30.0191,
+    11.9403,
+    30.0191,
+    11.9403
+],
+  "geometry": {"coordinates":[30.0191,11.9403],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895092535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.10469,11.94713,32.10469,11.94713",
+    "geom:latitude":11.94713,
+    "geom:longitude":32.10469,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493854: name \"Almegainis\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493854"
+        },
+        {
+            "citation":"GeoNames populated place 12493854: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493854"
+        },
+        {
+            "citation":"GeoNames populated place 12493854: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493854"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85676923 (South Kordufan), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676923,
+        102191573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493854
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d05c3b4844a883b8d3fc6197af10602c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "locality_id":9895092535,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":9895092535,
+    "wof:lastmodified":1795746227,
+    "wof:name":"Almegainis",
+    "wof:parent_id":85676923,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.10469,
+    11.94713,
+    32.10469,
+    11.94713
+],
+  "geometry": {"coordinates":[32.10469,11.94713],"type":"Point"}
+}

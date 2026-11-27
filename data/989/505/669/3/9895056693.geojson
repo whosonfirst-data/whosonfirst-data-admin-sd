@@ -1,0 +1,74 @@
+{
+  "id": 9895056693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"21.88418,12.8822,21.88418,12.8822",
+    "geom:latitude":12.8822,
+    "geom:longitude":21.88418,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12902931: name \"Dime\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12902931"
+        },
+        {
+            "citation":"GeoNames populated place 12902931: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12902931"
+        },
+        {
+            "citation":"GeoNames populated place 12902931: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12902931"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091705349 (Beida), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12902931
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"ad95bd242e8acfab7a328e4185cdec81",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":9895056693,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056693,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Dime",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    21.88418,
+    12.8822,
+    21.88418,
+    12.8822
+],
+  "geometry": {"coordinates":[21.88418,12.8822],"type":"Point"}
+}

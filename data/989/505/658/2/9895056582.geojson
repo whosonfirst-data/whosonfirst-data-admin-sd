@@ -1,0 +1,74 @@
+{
+  "id": 9895056582,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.82288,10.96641,34.82288,10.96641",
+    "geom:latitude":10.96641,
+    "geom:longitude":34.82288,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492062: name \"Bee\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492062"
+        },
+        {
+            "citation":"GeoNames populated place 12492062: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492062"
+        },
+        {
+            "citation":"GeoNames populated place 12492062: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492062"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091709399 (Geissan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676865,
+        102191573,
+        1091709399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492062
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"6e7618d83e2a2dc62f300b3a3a113469",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709399,
+            "locality_id":9895056582,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":9895056582,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Bee",
+    "wof:parent_id":1091709399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.82288,
+    10.96641,
+    34.82288,
+    10.96641
+],
+  "geometry": {"coordinates":[34.82288,10.96641],"type":"Point"}
+}

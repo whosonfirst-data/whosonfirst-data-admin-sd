@@ -1,0 +1,74 @@
+{
+  "id": 9895056564,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"29.96675,10.62033,29.96675,10.62033",
+    "geom:latitude":10.62033,
+    "geom:longitude":29.96675,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 8199079: name \"Al Buram\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/8199079"
+        },
+        {
+            "citation":"GeoNames populated place 8199079: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/8199079"
+        },
+        {
+            "citation":"GeoNames populated place 8199079: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/8199079"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091710275 (Al Buram), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676923,
+        102191573,
+        1091710275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":8199079
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"d343fbfe906826d57cd167c492747242",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710275,
+            "locality_id":9895056564,
+            "region_id":85676923
+        }
+    ],
+    "wof:id":9895056564,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Al Buram",
+    "wof:parent_id":1091710275,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    29.96675,
+    10.62033,
+    29.96675,
+    10.62033
+],
+  "geometry": {"coordinates":[29.96675,10.62033],"type":"Point"}
+}

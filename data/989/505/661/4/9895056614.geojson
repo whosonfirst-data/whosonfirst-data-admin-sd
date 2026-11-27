@@ -1,0 +1,74 @@
+{
+  "id": 9895056614,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"32.63488,13.40664,32.63488,13.40664",
+    "geom:latitude":13.40664,
+    "geom:longitude":32.63488,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12493850: name \"Marabei Wad Elibaih\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12493850"
+        },
+        {
+            "citation":"GeoNames populated place 12493850: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12493850"
+        },
+        {
+            "citation":"GeoNames populated place 12493850: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12493850"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707753 (Rabak), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676909,
+        102191573,
+        1091707753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12493850
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"0b9c8e221edeba523fc6670b3a97bfe9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707753,
+            "locality_id":9895056614,
+            "region_id":85676909
+        }
+    ],
+    "wof:id":9895056614,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Marabei Wad Elibaih",
+    "wof:parent_id":1091707753,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    32.63488,
+    13.40664,
+    32.63488,
+    13.40664
+],
+  "geometry": {"coordinates":[32.63488,13.40664],"type":"Point"}
+}

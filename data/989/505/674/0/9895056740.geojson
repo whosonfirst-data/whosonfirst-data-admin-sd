@@ -1,0 +1,74 @@
+{
+  "id": 9895056740,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.11287,13.01356,22.11287,13.01356",
+    "geom:latitude":13.01356,
+    "geom:longitude":22.11287,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12903011: name \"Jimeza\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12903011"
+        },
+        {
+            "citation":"GeoNames populated place 12903011: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12903011"
+        },
+        {
+            "citation":"GeoNames populated place 12903011: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12903011"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091705349 (Beida), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091705349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12903011
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"5a77ca07d7f2701ae01d302aa110f959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091705349,
+            "locality_id":9895056740,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056740,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Jimeza",
+    "wof:parent_id":1091705349,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.11287,
+    13.01356,
+    22.11287,
+    13.01356
+],
+  "geometry": {"coordinates":[22.11287,13.01356],"type":"Point"}
+}

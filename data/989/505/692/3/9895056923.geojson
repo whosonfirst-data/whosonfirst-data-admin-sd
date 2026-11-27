@@ -1,0 +1,74 @@
+{
+  "id": 9895056923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.93335,13.1679,22.93335,13.1679",
+    "geom:latitude":13.1679,
+    "geom:longitude":22.93335,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13060251: name \"Motoko\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13060251"
+        },
+        {
+            "citation":"GeoNames populated place 13060251: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13060251"
+        },
+        {
+            "citation":"GeoNames populated place 13060251: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13060251"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707477 (Kreinik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091707477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13060251
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"03f4f497255b6011ea7873f5e8a5b996",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707477,
+            "locality_id":9895056923,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056923,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Motoko",
+    "wof:parent_id":1091707477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.93335,
+    13.1679,
+    22.93335,
+    13.1679
+],
+  "geometry": {"coordinates":[22.93335,13.1679],"type":"Point"}
+}

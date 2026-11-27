@@ -1,0 +1,74 @@
+{
+  "id": 9895056580,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.83009,10.9603,34.83009,10.9603",
+    "geom:latitude":10.9603,
+    "geom:longitude":34.83009,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12492060: name \"Mayak East\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12492060"
+        },
+        {
+            "citation":"GeoNames populated place 12492060: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12492060"
+        },
+        {
+            "citation":"GeoNames populated place 12492060: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12492060"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091709399 (Geissan), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676865,
+        102191573,
+        1091709399
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12492060
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"26c089a241e47e8b1a321d2ff32a1200",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091709399,
+            "locality_id":9895056580,
+            "region_id":85676865
+        }
+    ],
+    "wof:id":9895056580,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Mayak East",
+    "wof:parent_id":1091709399,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.83009,
+    10.9603,
+    34.83009,
+    10.9603
+],
+  "geometry": {"coordinates":[34.83009,10.9603],"type":"Point"}
+}

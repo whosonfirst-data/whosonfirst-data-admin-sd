@@ -1,0 +1,74 @@
+{
+  "id": 9895056937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.51251,12.1384,22.51251,12.1384",
+    "geom:latitude":12.1384,
+    "geom:longitude":22.51251,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13060268: name \"Hajer Bagar\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13060268"
+        },
+        {
+            "citation":"GeoNames populated place 13060268: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13060268"
+        },
+        {
+            "citation":"GeoNames populated place 13060268: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13060268"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091710149 (Foro Baranga), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091710149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13060268
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"53aec8c194a6919152a0875f6eaf97b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091710149,
+            "locality_id":9895056937,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056937,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Hajer Bagar",
+    "wof:parent_id":1091710149,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.51251,
+    12.1384,
+    22.51251,
+    12.1384
+],
+  "geometry": {"coordinates":[22.51251,12.1384],"type":"Point"}
+}

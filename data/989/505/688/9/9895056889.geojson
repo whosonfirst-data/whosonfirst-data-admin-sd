@@ -1,0 +1,74 @@
+{
+  "id": 9895056889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"22.94453,13.03906,22.94453,13.03906",
+    "geom:latitude":13.03906,
+    "geom:longitude":22.94453,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12954318: name \"Hashaba\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12954318"
+        },
+        {
+            "citation":"GeoNames populated place 12954318: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12954318"
+        },
+        {
+            "citation":"GeoNames populated place 12954318: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12954318"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091707477 (Kreinik), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676881,
+        102191573,
+        1091707477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12954318
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f9094cd54b16555377e916ab9b89d642",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091707477,
+            "locality_id":9895056889,
+            "region_id":85676881
+        }
+    ],
+    "wof:id":9895056889,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Hashaba",
+    "wof:parent_id":1091707477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    22.94453,
+    13.03906,
+    22.94453,
+    13.03906
+],
+  "geometry": {"coordinates":[22.94453,13.03906],"type":"Point"}
+}

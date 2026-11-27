@@ -1,0 +1,75 @@
+{
+  "id": 9895056957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"34.09197,14.10776,34.09197,14.10776",
+    "geom:latitude":14.10776,
+    "geom:longitude":34.09197,
+    "gn:population":30629,
+    "iso:country":"SD",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 13132450: name \"Al-F\u0101w\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/13132450"
+        },
+        {
+            "citation":"GeoNames populated place 13132450: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/13132450"
+        },
+        {
+            "citation":"GeoNames populated place 13132450: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/13132450"
+        },
+        {
+            "citation":"The hierarchy of WOF county 1091706297 (El Faw), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632751,
+        85676897,
+        102191573,
+        1091706297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":13132450
+    },
+    "wof:country":"SD",
+    "wof:geomhash":"f9bf320183596cbced6dc8c18c86b9e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191573,
+            "country_id":85632751,
+            "county_id":1091706297,
+            "locality_id":9895056957,
+            "region_id":85676897
+        }
+    ],
+    "wof:id":9895056957,
+    "wof:lastmodified":1795735041,
+    "wof:name":"Al-F\u0101w",
+    "wof:parent_id":1091706297,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-sd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    34.09197,
+    14.10776,
+    34.09197,
+    14.10776
+],
+  "geometry": {"coordinates":[34.09197,14.10776],"type":"Point"}
+}
